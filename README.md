@@ -39,10 +39,23 @@ Geri bildirimleriniz bizim için çok kıymetli. Bu repo sayesinde:
 
 ## 🛠️ Nasıl Kullanılır?
 
-1. Yukarıdaki **Issues** sekmesine tıklayın.
-2. Yeni bir talep oluşturmak için **New Issue** butonuna basın.
-3. Başlık ve açıklama kısmını doldurun. Mümkünse ekran görüntüleri ekleyin.
+1. Aşağıdaki **Yeni Bir Talep Oluştur** butonuna tıklayın.
+2. Yeni bir talep oluşturmak için başlık ve açıklama kısmını doldurun.
+3. Mümkünse ekran görüntüleri veya ilgili dosyalar ekleyin.
 4. Gönderdiğiniz talepler ekip tarafından incelenecek ve en kısa sürede yanıtlanacaktır. 🙌
+
+<br>
+
+> ⚠️ **Uyarı!** 🚨
+> 
+> Burada oluşturduğunuz talepler, herkes tarafından görülebilir! 👀
+> Kişisel verilerinizi (ad, telefon numarası, adres vs.) paylaşırken dikkatli olun. Gerekirse bu bilgileri karalayarak ya da gizleyerek ekleyin. 
+>
+> Unutmayın: Biz evcil dostlarımız kadar sevimli olsak da, internetteki herkes öyle olmayabilir. 😅
+
+<br>
+
+[![Yeni Bir Talep Oluştur](https://img.shields.io/badge/Yeni%20Bir%20Talep%20Oluştur-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benek-App/benek-geri-bildirim/issues/new)
 
 ---
 
